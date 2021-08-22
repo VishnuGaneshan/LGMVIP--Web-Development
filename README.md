@@ -1,3 +1,12 @@
+# Hello :wave: and Welcome to my *LGMVIP Web Development* Repo
+
+Tech used :
+- [x] HTML
+- [x] CSS
+- [x] JAVASCRIPT
+- [x] REACT
+- [x] NodeJS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
